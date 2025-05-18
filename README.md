@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashika1503
 - 👀 I’m interested in coding and learning to create new things
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently learning full stack development
 - 📫 Reach out to me at gyashika1503@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love books, music and the cosmos
